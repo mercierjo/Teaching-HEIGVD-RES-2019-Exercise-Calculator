@@ -4,7 +4,7 @@
   + Server: 10.10.10.2        
   + Client: 10.10.10.3 - 10.10.10.254       
   + Submask: 255.255.255.0        
-  + Port: 12000 
+  + Port: 12001 
 + Who speaks first?     
   The client.
 + What is the sequence of messages exchanged by the client and the server?
